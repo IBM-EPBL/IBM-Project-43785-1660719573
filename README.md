@@ -10,10 +10,10 @@ Project: Signs with Smart Connectivity for Better Road Safety
 
 Team Leader: Mohamed Thariq P
 
-Team Members:
+	Team Members:
 
-	Ram Balaji S
+		Ram Balaji S
 	
-	Santhosh S
+		Santhosh S
 	
-	Thameemum Ansari A
+		Thameemum Ansari A
