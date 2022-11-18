@@ -3,7 +3,8 @@
 
 <br>
 
-### Team Leader - Mohamed Thariq P
+### Team Leader 
+- Mohamed Thariq P
 
 ### Team Members:
 - Ram Balaji S
